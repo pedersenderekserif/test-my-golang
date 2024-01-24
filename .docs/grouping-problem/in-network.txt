@@ -1,0 +1,294 @@
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 262099687|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 462587906|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 202714444|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser NoCal|Sponsor EIN: 942606438|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: INO|Sponsor EIN: 562605608|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP/HSA|Sponsor EIN: 471824387|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 020541231|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 364486492|https://bcbsil.com/asomrf?EIN=364486492
+File scope: In Network|Plan Name: PPO with Health Savings Account|Sponsor EIN: 680140361|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Essential Plan|Sponsor EIN: 830344693|https://bcbsil.com/asomrf?EIN=830344693
+File scope: In Network|Plan Name: Kaiser HSA SoCal|Sponsor EIN: 954876514|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 952588080|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HSA PPO 1600|Sponsor EIN: 952588496|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 952588496|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HDHP|Sponsor EIN: 452647441|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO 20|Sponsor EIN: 473750777|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP HSA 2700|Sponsor EIN: 260451139|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: MA EPO|Sponsor EIN: 952678449|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 611855879|https://bcbsil.com/asomrf?EIN=611855879
+File scope: In Network|Plan Name: Copay|Sponsor EIN: 752949425|https://bcbsil.com/asomrf?EIN=752949425
+File scope: In Network|Plan Name: Retiree - 90/10 PPO|Sponsor EIN: 743010657|https://bcbstx.com/asomrf?EIN=743010657
+File scope: In Network|Plan Name: PPO 3000|Sponsor EIN: 954233663|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HDHP Plan|Sponsor EIN: 202066201|https://bcbsil.com/asomrf?EIN=202066201
+File scope: In Network|Plan Name: PPO 250|Sponsor EIN: 272254206|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA Tier 2|Sponsor EIN: 954876514|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Silver PPO|Sponsor EIN: 911255756|https://premera.sapphiremrfhub.com
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 020541231|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Southern California HMO|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP 2000|Sponsor EIN: 953720522|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Quartz HMO|Sponsor EIN: 330804655|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Cryptic EPO|Sponsor EIN: 261665833|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Washington HSA Family|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 208809830|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP HSA|Sponsor EIN: 271519660|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 262922329|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 010627671|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HRA 3000|Sponsor EIN: 272254206|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 954876514|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: BCBSTX PPO|Sponsor EIN: 743010657|https://bcbstx.com/asomrf?EIN=743010657
+File scope: In Network|Plan Name: Kaiser NoCal|Sponsor EIN: 941625126|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 273429394|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 942441412|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Blue Shield HDHP|Sponsor EIN: 980443443|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA 3000|Sponsor EIN: 330730794|https://bcbstx.com/asomrf?EIN=330730794
+File scope: In Network|Plan Name: PPO Plan|Sponsor EIN: 472979265|https://bcbsil.com/asomrf?EIN=472979265
+File scope: In Network|Plan Name: Kaiser Washington HSA|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 954876514|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Classic PPO|Sponsor EIN: 830344693|https://bcbsil.com/asomrf?EIN=830344693
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 760423828|https://bcbsil.com/asomrf?EIN=760423828
+File scope: In Network|Plan Name: Kaiser HMO 20|Sponsor EIN: 473750777|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 953720522|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 134068197|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO 20|Sponsor EIN: 260451139|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 010627671|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO Plan|Sponsor EIN: 680140361|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 770422528|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HDHP w/HSA In-Network Only Plan|Sponsor EIN: 270423711|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: PPO Classic|Sponsor EIN: 261081729|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Pure PPO Plan|Sponsor EIN: 271069557|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO 4000|Sponsor EIN: 871409584|https://bcbsil.com/asomrf?EIN=871409584
+File scope: In Network|Plan Name: Medical|Sponsor EIN: 954552870|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 954785612|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO Base Plan|Sponsor EIN: 202066201|https://bcbsil.com/asomrf?EIN=202066201
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 942810519|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO 150|Sponsor EIN: 262922329|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 954785612|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HSA 1600|Sponsor EIN: 460925388|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Green (HSA)|Sponsor EIN: 814043469|https://bcbsil.com/asomrf?EIN=814043469
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 010627671|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 320474995|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 562605608|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP Basic|Sponsor EIN: 851800912|https://bcbsil.com/asomrf?EIN=851800912
+File scope: In Network|Plan Name: MA EPO|Sponsor EIN: 273429394|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 273429394|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 942810519|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO Mid-Atlantic|Sponsor EIN: 821277526|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO NorCal|Sponsor EIN: 471824387|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser SoCal|Sponsor EIN: 208809830|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Bronze PPO|Sponsor EIN: 911255756|https://premera.sapphiremrfhub.com
+File scope: In Network|Plan Name: PPO (Plan A)|Sponsor EIN: 263079534|https://bcbsil.com/asomrf?EIN=263079534
+File scope: In Network|Plan Name: PPO 1500|Sponsor EIN: 320474995|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: CDHP + HSA|Sponsor EIN: 203247759|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 464364776|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HDHP SoCal|Sponsor EIN: 452647441|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Washington HMO|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO Platinum Saver|Sponsor EIN: 261081729|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser South|Sponsor EIN: 952588496|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HDHP NorCal|Sponsor EIN: 471824387|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Colorado|Sponsor EIN: 453942850|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO SoCal|Sponsor EIN: 471824387|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP 5000|Sponsor EIN: 953720522|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Medical PPO|Sponsor EIN: 223230961|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 462587906|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO 250|Sponsor EIN: 261665833|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Premium|Sponsor EIN: 134012728|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: EPO with High Deductible|Sponsor EIN: 680140361|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 330785945|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO Exclusive Premier|Sponsor EIN: 473750777|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser SoCal|Sponsor EIN: 471223806|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: High|Sponsor EIN: 611855879|https://bcbsil.com/asomrf?EIN=611855879
+File scope: In Network|Plan Name: PPO 350|Sponsor EIN: 262922329|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 208809830|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 770422528|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 271519660|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Retiree - 80/20 PPO|Sponsor EIN: 743010657|https://bcbstx.com/asomrf?EIN=743010657
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 263607129|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO 015|Sponsor EIN: 460925388|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser NoCal HMO|Sponsor EIN: 770565408|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP 2500|Sponsor EIN: 473750777|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: In-Network|Sponsor EIN: 942606438|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Alaska Gold PPO|Sponsor EIN: 911255756|https://premera.sapphiremrfhub.com
+File scope: In Network|Plan Name: CA EPO|Sponsor EIN: 952678449|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser North|Sponsor EIN: 952588496|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Cryptic HSA 1600|Sponsor EIN: 261665833|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 262099687|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser Southern California HSA|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO Plan|Sponsor EIN: 680140361|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP 3000|Sponsor EIN: 262922329|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 952588496|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Traditional PPO Plan|Sponsor EIN: 270423711|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 471223806|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Guide PPO|Sponsor EIN: 010627671|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA PPO 3500|Sponsor EIN: 952588496|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Anthem HDHP|Sponsor EIN: 770565408|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Northern California HMO|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser California|Sponsor EIN: 821277526|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP 3000 HSA|Sponsor EIN: 912011487|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Alaska Bronze PPO|Sponsor EIN: 911255756|https://premera.sapphiremrfhub.com
+File scope: In Network|Plan Name: HSA (Plan C)|Sponsor EIN: 263079534|https://bcbsil.com/asomrf?EIN=263079534
+File scope: In Network|Plan Name: Kaiser HMO SoCal|Sponsor EIN: 452647441|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: BSC PPO HSA 3500|Sponsor EIN: 844942307|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO (Plan B)|Sponsor EIN: 263079534|https://bcbsil.com/asomrf?EIN=263079534
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 263607129|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 680397820|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 010627671|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 262922329|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP 3000 HRA|Sponsor EIN: 912011487|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP 2000 HSA|Sponsor EIN: 912011487|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser SoCal|Sponsor EIN: 954876514|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO 500|Sponsor EIN: 954233663|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser Southern California|Sponsor EIN: 453942850|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 271519660|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA 3200|Sponsor EIN: 871409584|https://bcbsil.com/asomrf?EIN=871409584
+File scope: In Network|Plan Name: Traditional HMO|Sponsor EIN: 942441412|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO VIP|Sponsor EIN: 760423828|https://bcbsil.com/asomrf?EIN=760423828
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 980443443|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HSA 4500|Sponsor EIN: 330730794|https://bcbstx.com/asomrf?EIN=330730794
+File scope: In Network|Plan Name: Kaiser NCAL HMO|Sponsor EIN: 330687103|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: MA PPO|Sponsor EIN: 273429394|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Gold PPO|Sponsor EIN: 911255756|https://premera.sapphiremrfhub.com
+File scope: In Network|Plan Name: CDHP Plan|Sponsor EIN: 472979265|https://bcbsil.com/asomrf?EIN=472979265
+File scope: In Network|Plan Name: Kaiser SoCal HMO|Sponsor EIN: 770565408|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser NoCal HDHP|Sponsor EIN: 770565408|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Southern HMO Plan|Sponsor EIN: 464364776|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Northern California|Sponsor EIN: 453942850|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Pure HDHP with HSA Plan|Sponsor EIN: 271069557|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HDHP with HSA|Sponsor EIN: 680397820|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 821277526|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser WA|Sponsor EIN: 593797948|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP Plus|Sponsor EIN: 851800912|https://bcbsil.com/asomrf?EIN=851800912
+File scope: In Network|Plan Name: Kaiser HMO SoCal|Sponsor EIN: 134068197|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Blue (PPO)|Sponsor EIN: 814043469|https://bcbsil.com/asomrf?EIN=814043469
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 464364776|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Southern California HDHP|Sponsor EIN: 942810519|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 471824387|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 273429394|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO with HSA|Sponsor EIN: 320116674|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA2|Sponsor EIN: 361236610|https://bcbsil.com/asomrf?EIN=361236610
+File scope: In Network|Plan Name: Kaiser SCAL HMO|Sponsor EIN: 330687103|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 262099687|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 330804655|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 760423828|https://bcbsil.com/asomrf?EIN=760423828
+File scope: In Network|Plan Name: H$A High|Sponsor EIN: 202714444|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Standard|Sponsor EIN: 261778564|https://bcbsil.com/asomrf?EIN=261778564
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 593797948|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: CDHP|Sponsor EIN: 942606438|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 460925388|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Premium EPO|Sponsor EIN: 830344693|https://bcbsil.com/asomrf?EIN=830344693
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 330687103|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HSA 1600|Sponsor EIN: 261665833|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO Smart Saver|Sponsor EIN: 261081729|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: CDHP w/ HSA|Sponsor EIN: 941237296|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 851800912|https://bcbsil.com/asomrf?EIN=851800912
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 952588080|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 263607129|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 202714444|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: High Deductible Plan with Health Savings Account|Sponsor EIN: 452647441|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser Northern California HMO|Sponsor EIN: 942810519|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Anthem PPO|Sponsor EIN: 770565408|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser SoCal HDHP|Sponsor EIN: 770565408|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HDHP SoCal|Sponsor EIN: 471824387|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Northern California HDHP|Sponsor EIN: 942810519|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Mid-Atlantic|Sponsor EIN: 770422528|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser SoCal|Sponsor EIN: 941625126|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser CO|Sponsor EIN: 593797948|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO NoCal|Sponsor EIN: 134068197|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Northern California|Sponsor EIN: 844942307|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Oregon|Sponsor EIN: 941625126|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: BSC PPO HSA 6350 Intern|Sponsor EIN: 844942307|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 562605608|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 464364776|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Northern HMO Plan|Sponsor EIN: 464364776|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 320116674|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HDHP VIP|Sponsor EIN: 760423828|https://bcbsil.com/asomrf?EIN=760423828
+File scope: In Network|Plan Name: PPO 500|Sponsor EIN: 611648780|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Essential|Sponsor EIN: 261778564|https://bcbsil.com/asomrf?EIN=261778564
+File scope: In Network|Plan Name: Standard|Sponsor EIN: 134012728|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: Base Plan|Sponsor EIN: 751732559|https://bcbstx.com/asomrf?EIN=751732559
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 452647441|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO 1500|Sponsor EIN: 330730794|https://bcbstx.com/asomrf?EIN=330730794
+File scope: In Network|Plan Name: High Deductible Health Plan|Sponsor EIN: 824402852|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 824402852|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 261665833|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HDHP|Sponsor EIN: 942810519|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 751732559|https://bcbstx.com/asomrf?EIN=751732559
+File scope: In Network|Plan Name: HSA Tier 1|Sponsor EIN: 954876514|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 593797948|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 020541231|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Alaska Silver PPO|Sponsor EIN: 911255756|https://premera.sapphiremrfhub.com
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 203247759|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO 250|Sponsor EIN: 320474995|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Premium|Sponsor EIN: 261778564|https://bcbsil.com/asomrf?EIN=261778564
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 680397820|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO Plan (SoCal)|Sponsor EIN: 680140361|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Traditional PPO|Sponsor EIN: 330804655|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO 1000|Sponsor EIN: 912011487|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HSA|Sponsor EIN: 954876514|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Base|Sponsor EIN: 611855879|https://bcbsil.com/asomrf?EIN=611855879
+File scope: In Network|Plan Name: High Deductible Health Plan with HSA|Sponsor EIN: 611648780|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO 500|Sponsor EIN: 473750777|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 330804655|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 952678449|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: BSC PPO 1000|Sponsor EIN: 844942307|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 452647441|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 330687103|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 020541231|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO 500|Sponsor EIN: 942606438|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser Northern California HSA|Sponsor EIN: 460925388|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser HMO with HSA|Sponsor EIN: 680397820|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 263607129|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP w/HSA In-Network and Out-of-Network Plan|Sponsor EIN: 270423711|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 593797948|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO 250|Sponsor EIN: 260451139|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO (In-Network Only)|Sponsor EIN: 452647441|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Bronze EPO|Sponsor EIN: 330687103|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Blue Shield PPO|Sponsor EIN: 980443443|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 952678449|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 453942850|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HSA 2700|Sponsor EIN: 272254206|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Crafty Apes PPO|Sponsor EIN: 452696437|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HMO|Sponsor EIN: 952678449|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HSA|Sponsor EIN: 471223806|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 953720522|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP + HSA|Sponsor EIN: 942441412|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 010627671|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser California|Sponsor EIN: 770422528|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 752949425|https://bcbsil.com/asomrf?EIN=752949425
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 942441412|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 941237296|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HMO Plan|Sponsor EIN: 464364776|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 208809830|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser HI|Sponsor EIN: 593797948|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: BSC PPO HSA 1600|Sponsor EIN: 844942307|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Kaiser|Sponsor EIN: 263607129|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: HSA Plan|Sponsor EIN: 941625126|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: H$A Low|Sponsor EIN: 202714444|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Crafty Apes HDHP|Sponsor EIN: 452696437|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Georgia|Sponsor EIN: 821277526|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 954785612|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Cryptic PPO 250|Sponsor EIN: 261665833|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 770422528|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 462587906|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 263607129|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 273429394|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: Bronze PPO|Sponsor EIN: 562605608|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser |Sponsor EIN: 471223806|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: PPO 1500|Sponsor EIN: 871409584|https://bcbsil.com/asomrf?EIN=871409584
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 453942850|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Buy Up Plan|Sponsor EIN: 751732559|https://bcbstx.com/asomrf?EIN=751732559
+File scope: In Network|Plan Name: Kaiser HMO CA|Sponsor EIN: 271069557|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: EPO|Sponsor EIN: 471824387|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: PPO with HSA|Sponsor EIN: 330687103|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: EPO 35|Sponsor EIN: 473750777|https://www.empireblue.com/machine-readable-file/search
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 364486492|https://bcbsil.com/asomrf?EIN=364486492
+File scope: In Network|Plan Name: Kaiser SoCal|Sponsor EIN: 942606438|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Health Savings PPO - High Deductible|Sponsor EIN: 330804655|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: PPO|Sponsor EIN: 471223806|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP|Sponsor EIN: 942810519|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: HDHP HSA|Sponsor EIN: 460925388|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: Kaiser Southern California|Sponsor EIN: 844942307|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: Kaiser Southern California HMO|Sponsor EIN: 942810519|https://healthy.kaiserpermanente.org/pages/technical-information#machine-readable-files
+File scope: In Network|Plan Name: TX EPO|Sponsor EIN: 952678449|https://web.healthsparq.com/healthsparq/public/#/one/insurerCode=BSCA_I&brandCode=BSCA/machine-readable-transparency-in-coverage
+File scope: In Network|Plan Name: EPO Plan|Sponsor EIN: 680140361|https://www.anthem.com/ca/machine-readable-file/search
+File scope: In Network|Plan Name: CDHP with HSA|Sponsor EIN: 134068197|https://www.anthem.com/ca/machine-readable-file/search

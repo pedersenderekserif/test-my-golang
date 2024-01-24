@@ -1,0 +1,209 @@
+File Scope: allowed-amounts | Plan Name: HSA 2700 | Sponsor EIN: 272254206 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO Plan | Sponsor EIN: 680140361 | https://serifhealth.com/allowed-amounts-files/2024-01-20_RH_PPO-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA 2700 Family | Sponsor EIN: 272254206 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 263607129 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Pinterest_HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: BCBS $3,500 HDHP | Sponsor EIN: 815294275 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 770422528 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Juniper-Networks_HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 941237296 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Driscolls_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Premium | Sponsor EIN: 134012728 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO (In-Network Only) | Sponsor EIN: 452647441 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Uber_EPO-In-Network-Only_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 464364776 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Robinhood_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 3000 | Sponsor EIN: 954233663 | No applicable data
+File Scope: allowed-amounts | Plan Name: High Deductible Health Plan with HSA | Sponsor EIN: 611648780 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Zoom_High-Deductible-Health-Plan-with-HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA 2850 Deductible | Sponsor EIN: 202069997 | No applicable data
+File Scope: allowed-amounts | Plan Name: Bronze PPO | Sponsor EIN: 911255756 | No applicable data
+File Scope: allowed-amounts | Plan Name: Premium EPO | Sponsor EIN: 830344693 | No applicable data
+File Scope: allowed-amounts | Plan Name: CDHP | Sponsor EIN: 593797948 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Atlassian-US-Inc_CDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 208809830 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Lyft_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO Smart Saver | Sponsor EIN: 261081729 | No applicable data
+File Scope: allowed-amounts | Plan Name: Alaska Bronze PPO | Sponsor EIN: 911255756 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP 3000 | Sponsor EIN: 262922329 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 4500 | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 500 | Sponsor EIN: 942606438 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Activision-Blizzard_PPO-500_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 752949425 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 471824387 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Confluent_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Copay | Sponsor EIN: 752949425 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Uber-Freight_Copay_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 770422528 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Juniper-Networks_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 1500 | Sponsor EIN: 871409584 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP/HSA | Sponsor EIN: 471824387 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 263607129 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Pinterest_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO Classic | Sponsor EIN: 261081729 | No applicable data
+File Scope: allowed-amounts | Plan Name: Health Savings Plan | Sponsor EIN: 264411091 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Zendesk_Health-Savings-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 460925388 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Chime_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 460925388 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA Plan | Sponsor EIN: 941625126 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Woodruff-Sawyer--Company_HSA-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Blue Shield PPO | Sponsor EIN: 980443443 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Arm_Blue-Shield-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 364486492 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Balyasny-Asset-Management_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Guide PPO | Sponsor EIN: 010627671 | https://serifhealth.com/allowed-amounts-files/2024-01-20_SpaceX_Guide-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA 1850 Deductible | Sponsor EIN: 202069997 | No applicable data
+File Scope: allowed-amounts | Plan Name: Pure PPO Plan | Sponsor EIN: 271069557 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Pure-Storage_Pure-PPO-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 134068197 | No applicable data
+File Scope: allowed-amounts | Plan Name: Medical | Sponsor EIN: 954552870 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Red-Bull_Medical_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP + HSA | Sponsor EIN: 942441412 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO Exclusive Premier | Sponsor EIN: 473750777 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 250 | Sponsor EIN: 320474995 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Wedgewood_PPO-250_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO Platinum Saver | Sponsor EIN: 261081729 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 330065869 | No applicable data
+File Scope: allowed-amounts | Plan Name: Blue (PPO) | Sponsor EIN: 814043469 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Innovex_Blue-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Gold PPO | Sponsor EIN: 911255756 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 3000 (GA) | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 942441412 | No applicable data
+File Scope: allowed-amounts | Plan Name: BCBS $3,000 HDHP (FL) | Sponsor EIN: 815294275 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 821277526 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Anduril_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 4000 | Sponsor EIN: 871409584 | https://serifhealth.com/allowed-amounts-files/2024-01-20_WWEX-UNI-Topco-Holdings-LLC_PPO-4000_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Pure HDHP with HSA Plan | Sponsor EIN: 271069557 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Pure-Storage_Pure-HDHP-with-HSA-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 471223806 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 203247759 | No applicable data
+File Scope: allowed-amounts | Plan Name: Alaska Gold PPO | Sponsor EIN: 911255756 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 550 Deductible | Sponsor EIN: 202069997 | No applicable data
+File Scope: allowed-amounts | Plan Name: In-Network | Sponsor EIN: 942606438 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Activision-Blizzard_In-Network_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP w/HSA In-Network and Out-of-Network Plan | Sponsor EIN: 270423711 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Cowen_HDHP-wHSA-In-Network-and-Out-of-Network-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 471824387 | No applicable data
+File Scope: allowed-amounts | Plan Name: BCBS PPO | Sponsor EIN: 815294275 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Guaranteed-Rate-Companies_BCBS-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA 4500 Georgia | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: HRA 3000 | Sponsor EIN: 272254206 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 770422528 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 263607129 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Pinterest_EPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO Smart Saver Family | Sponsor EIN: 261081729 | No applicable data
+File Scope: allowed-amounts | Plan Name: Network Only (HMO) | Sponsor EIN: 264411091 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 010627671 | https://serifhealth.com/allowed-amounts-files/2024-01-20_SpaceX_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 352470800 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 611855879 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 020541231 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 320116674 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 952678449 | No applicable data
+File Scope: allowed-amounts | Plan Name: CDHP | Sponsor EIN: 941237296 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Driscolls_CDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Bronze | Sponsor EIN: 330065869 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 330785945 | No applicable data
+File Scope: allowed-amounts | Plan Name: Silver | Sponsor EIN: 330065869 | No applicable data
+File Scope: allowed-amounts | Plan Name: CDHP | Sponsor EIN: 942606438 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 208809830 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Lyft_HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA Tier 2 | Sponsor EIN: 954876514 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 010627671 | https://serifhealth.com/allowed-amounts-files/2024-01-20_SpaceX_HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 453942850 | No applicable data
+File Scope: allowed-amounts | Plan Name: Cryptic HSA 1500 | Sponsor EIN: 261665833 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 1 | Sponsor EIN: 770467272 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Netflix_PPO-1_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO HSA | Sponsor EIN: 330065869 | No applicable data
+File Scope: allowed-amounts | Plan Name: BCBS PPO (FL) | Sponsor EIN: 815294275 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 471223806 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 208809830 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 1500 (WI) | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 3000 | Sponsor EIN: 871409584 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP HSA 2700 | Sponsor EIN: 260451139 | No applicable data
+File Scope: allowed-amounts | Plan Name: High | Sponsor EIN: 611855879 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 1500 (GA) | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: Anaplan PPO with HSA | Sponsor EIN: 270897861 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Anaplan_Anaplan-PPO-with-HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: CA EPO | Sponsor EIN: 952678449 | https://serifhealth.com/allowed-amounts-files/2024-01-20_KARL-STORZ_CA-EPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP HSA 2700 Family | Sponsor EIN: 260451139 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 150 | Sponsor EIN: 262922329 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Cloudera_PPO-150_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO Plan | Sponsor EIN: 680140361 | No applicable data
+File Scope: allowed-amounts | Plan Name: Base | Sponsor EIN: 611855879 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO 35 | Sponsor EIN: 473750777 | No applicable data
+File Scope: allowed-amounts | Plan Name: Blue Shield HDHP | Sponsor EIN: 980443443 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 952588080 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP with HSA | Sponsor EIN: 680397820 | https://serifhealth.com/allowed-amounts-files/2024-01-20_BioMarin_HDHP-with-HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP 2500 Family | Sponsor EIN: 473750777 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 500 | Sponsor EIN: 611648780 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Zoom_PPO-500_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA Plan | Sponsor EIN: 680140361 | No applicable data
+File Scope: allowed-amounts | Plan Name: Anaplan PPO | Sponsor EIN: 270897861 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 500 | Sponsor EIN: 954233663 | No applicable data
+File Scope: allowed-amounts | Plan Name: Cryptic PPO 250 | Sponsor EIN: 261665833 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 471223806 | No applicable data
+File Scope: allowed-amounts | Plan Name: HRA | Sponsor EIN: 952678449 | https://serifhealth.com/allowed-amounts-files/2024-01-20_KARL-STORZ_HRA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 952588080 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 3000 (Maryland DC) | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 2 | Sponsor EIN: 770467272 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Netflix_PPO-2_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: BCBS $3,000 HDHP | Sponsor EIN: 815294275 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 942810519 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA2 | Sponsor EIN: 361236610 | No applicable data
+File Scope: allowed-amounts | Plan Name: Medical PPO | Sponsor EIN: 223230961 | https://serifhealth.com/allowed-amounts-files/2024-01-20_EHE_Medical-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: High Deductible Health Plan | Sponsor EIN: 824402852 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 1500 (FL) | Sponsor EIN: 330730794 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Caliber_PPO-1500-FL_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 020541231 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP 2500 | Sponsor EIN: 473750777 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Better-Home-and-Finance-Holding-Company_HDHP-2500_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP 2000 | Sponsor EIN: 953720522 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Lewis-Brisbois_HDHP-2000_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: CDHP with HSA | Sponsor EIN: 134068197 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Cornerstone-OnDemand_CDHP-with-HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA 4500 Florida | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 770467272 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Netflix_HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 010627671 | https://serifhealth.com/allowed-amounts-files/2024-01-20_SpaceX_EPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 942441412 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 500 | Sponsor EIN: 473750777 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 953720522 | No applicable data
+File Scope: allowed-amounts | Plan Name: Traditional PPO Plan | Sponsor EIN: 270423711 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Cowen_Traditional-PPO-Plan_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 271519660 | No applicable data
+File Scope: allowed-amounts | Plan Name: BCBS $3,500 HDHP (FL) | Sponsor EIN: 815294275 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 680397820 | https://serifhealth.com/allowed-amounts-files/2024-01-20_BioMarin_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 271519660 | https://serifhealth.com/allowed-amounts-files/2024-01-20_GitHub_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 464364776 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 593797948 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Atlassian-US-Inc_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 952678449 | https://serifhealth.com/allowed-amounts-files/2024-01-20_KARL-STORZ_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 830344693 | https://serifhealth.com/allowed-amounts-files/2024-01-20_SCI-Shared-Resources-LLC_HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: H$A High | Sponsor EIN: 202714444 | No applicable data
+File Scope: allowed-amounts | Plan Name: High Deductible Plan with Health Savings Account | Sponsor EIN: 452647441 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Uber_High-Deductible-Plan-with-Health-Savings-Account_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA Tier 1 | Sponsor EIN: 954876514 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Trace3_HSA-Tier-1_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 1500 | Sponsor EIN: 320474995 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP/HSA - Family | Sponsor EIN: 471824387 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 350 | Sponsor EIN: 262922329 | No applicable data
+File Scope: allowed-amounts | Plan Name: MA EPO | Sponsor EIN: 952678449 | No applicable data
+File Scope: allowed-amounts | Plan Name: CDHP + HSA | Sponsor EIN: 203247759 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Live-Nation_CDHP--HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: 3500 HDHP | Sponsor EIN: 844942307 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Rivian-LLC_3500-HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Medical Children | Sponsor EIN: 954552870 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Red-Bull_Medical-Children_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP 2000 Family | Sponsor EIN: 953720522 | No applicable data
+File Scope: allowed-amounts | Plan Name: Silver PPO | Sponsor EIN: 911255756 | No applicable data
+File Scope: allowed-amounts | Plan Name: H$A Low | Sponsor EIN: 202714444 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Box_HA-Low_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 824402852 | No applicable data
+File Scope: allowed-amounts | Plan Name: Health Savings PPO - High Deductible | Sponsor EIN: 330804655 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Illumina_Health-Savings-PPO---High-Deductible_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 760423828 | No applicable data
+File Scope: allowed-amounts | Plan Name: Gold | Sponsor EIN: 330065869 | No applicable data
+File Scope: allowed-amounts | Plan Name: Pure PPO (Utah) | Sponsor EIN: 271069557 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 3000 | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: Buy Up PPO | Sponsor EIN: 742741795 | No applicable data
+File Scope: allowed-amounts | Plan Name: Low PPO | Sponsor EIN: 562605608 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP Family | Sponsor EIN: 942810519 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 760423828 | No applicable data
+File Scope: allowed-amounts | Plan Name: Crafty Apes HDHP | Sponsor EIN: 452696437 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 1500 (Maryland DC) | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 452647441 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Uber_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Crafty Apes PPO | Sponsor EIN: 452696437 | No applicable data
+File Scope: allowed-amounts | Plan Name: Traditional PPO | Sponsor EIN: 330804655 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Illumina_Traditional-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 954876514 | No applicable data
+File Scope: allowed-amounts | Plan Name: Anthem HDHP | Sponsor EIN: 770565408 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Bloom-Energy_Anthem-HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: INO | Sponsor EIN: 562605608 | No applicable data
+File Scope: allowed-amounts | Plan Name: Standard | Sponsor EIN: 134012728 | No applicable data
+File Scope: allowed-amounts | Plan Name: Medical Spouse | Sponsor EIN: 954552870 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO | Sponsor EIN: 953720522 | No applicable data
+File Scope: allowed-amounts | Plan Name: 1500 HDHP | Sponsor EIN: 844942307 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Rivian-LLC_1500-HDHP_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO with HSA | Sponsor EIN: 320116674 | No applicable data
+File Scope: allowed-amounts | Plan Name: Green (HSA) | Sponsor EIN: 814043469 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Innovex_Green-HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP HSA | Sponsor EIN: 271519660 | https://serifhealth.com/allowed-amounts-files/2024-01-20_GitHub_HDHP-HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Anthem PPO | Sponsor EIN: 770565408 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Bloom-Energy_Anthem-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 020541231 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 264411091 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Zendesk_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 364486492 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Balyasny-Asset-Management_HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 464364776 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Robinhood_HSA_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 250 | Sponsor EIN: 272254206 | No applicable data
+File Scope: allowed-amounts | Plan Name: TX EPO | Sponsor EIN: 952678449 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP 5000 | Sponsor EIN: 953720522 | No applicable data
+File Scope: allowed-amounts | Plan Name: Cryptic EPO | Sponsor EIN: 261665833 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO 500 | Sponsor EIN: 844942307 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Rivian-LLC_PPO-500_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 250 | Sponsor EIN: 260451139 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Credit-Karma_PPO-250_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Pure HDHP with HSA (Utah) | Sponsor EIN: 271069557 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 562605608 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA | Sponsor EIN: 562605608 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 453942850 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Gusto_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HSA 4500 Wisconsin | Sponsor EIN: 330730794 | No applicable data
+File Scope: allowed-amounts | Plan Name: HDHP | Sponsor EIN: 320474995 | No applicable data
+File Scope: allowed-amounts | Plan Name: Medical Family | Sponsor EIN: 954552870 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Red-Bull_Medical-Family_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO 1500 | Sponsor EIN: 330730794 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Caliber_PPO-1500_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: HDHP w/HSA In-Network Only Plan | Sponsor EIN: 270423711 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 3000 (FL) | Sponsor EIN: 330730794 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Caliber_HSA-3000-FL_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 942810519 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Logitech-Inc_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO Classic Family | Sponsor EIN: 261081729 | No applicable data
+File Scope: allowed-amounts | Plan Name: PPO | Sponsor EIN: 202714444 | https://serifhealth.com/allowed-amounts-files/2024-01-20_Box_PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: Base PPO | Sponsor EIN: 742741795 | No applicable data
+File Scope: allowed-amounts | Plan Name: Classic PPO | Sponsor EIN: 830344693 | https://serifhealth.com/allowed-amounts-files/2024-01-20_SCI-Shared-Resources-LLC_Classic-PPO_allowed-amounts.json
+File Scope: allowed-amounts | Plan Name: PPO Platinum Saver Family | Sponsor EIN: 261081729 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO 20 | Sponsor EIN: 260451139 | No applicable data
+File Scope: allowed-amounts | Plan Name: EPO High Deductible | Sponsor EIN: 680140361 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA Family | Sponsor EIN: 460925388 | No applicable data
+File Scope: allowed-amounts | Plan Name: HSA 3000 (WI) | Sponsor EIN: 330730794 | No applicable data

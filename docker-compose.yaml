@@ -1,0 +1,23 @@
+version: '3.9'
+
+volumes:
+  test-volume:
+
+
+networks:
+  teams_net:
+    driver: bridge
+
+services:
+  teams-db:
+    image: 'postgres:14'
+    ports:
+      - '4532:5432'
+    environment:
+      POSTGRES_USER: teams
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: teams
+    volumes:
+      - test-volume:/var/lib/postgresql/data
+    networks:
+      - teams_net

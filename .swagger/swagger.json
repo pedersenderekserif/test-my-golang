@@ -1,0 +1,146 @@
+{
+  "consumes": [
+    "application/json"
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "swagger": "2.0",
+  "info": {
+    "description": "This API provides a basis for Test My Golang",
+    "title": "Test My Golang",
+    "contact": {
+      "name": "Serif Health",
+      "url": "https://www.serifhealth.com",
+      "email": "engineering@serifhealth.com"
+    },
+    "version": "1.0.0"
+  },
+  "basePath": "/",
+  "paths": {
+    "/players": {
+      "get": {
+        "description": "Gets players",
+        "tags": [
+          "players"
+        ],
+        "operationId": "getPlayers",
+        "parameters": [
+          {
+            "type": "string",
+            "format": "uuid",
+            "x-go-name": "TeamID",
+            "name": "teamId",
+            "in": "query"
+          }
+        ],
+        "responses": {
+          "200": {
+            "$ref": "#/responses/getPlayers"
+          }
+        }
+      }
+    },
+    "/teams": {
+      "get": {
+        "description": "Gets teams",
+        "tags": [
+          "teams"
+        ],
+        "operationId": "getTeams",
+        "responses": {
+          "200": {
+            "$ref": "#/responses/getTeams"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Player": {
+      "type": "object",
+      "properties": {
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "x-go-name": "CreatedAt"
+        },
+        "deletedAt": {
+          "type": "string",
+          "format": "date-time",
+          "x-go-name": "DeletedAt"
+        },
+        "id": {
+          "type": "string",
+          "format": "uuid",
+          "x-go-name": "ID"
+        },
+        "name": {
+          "type": "string",
+          "x-go-name": "Name"
+        },
+        "teamId": {
+          "type": "string",
+          "format": "uuid",
+          "x-go-name": "TeamID"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "x-go-name": "UpdatedAt"
+        }
+      },
+      "x-go-package": "github.com/pedersenderekserif/test-my-golang/players"
+    },
+    "Team": {
+      "type": "object",
+      "properties": {
+        "createdAt": {
+          "type": "string",
+          "format": "date-time",
+          "x-go-name": "CreatedAt"
+        },
+        "deletedAt": {
+          "type": "string",
+          "format": "date-time",
+          "x-go-name": "DeletedAt"
+        },
+        "id": {
+          "type": "string",
+          "format": "uuid",
+          "x-go-name": "ID"
+        },
+        "name": {
+          "type": "string",
+          "x-go-name": "Name"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "x-go-name": "UpdatedAt"
+        }
+      },
+      "x-go-package": "github.com/pedersenderekserif/test-my-golang/teams"
+    }
+  },
+  "responses": {
+    "getPlayers": {
+      "description": "",
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/Player"
+        }
+      }
+    },
+    "getTeams": {
+      "description": "",
+      "schema": {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/Team"
+        }
+      }
+    }
+  }
+}
